@@ -1,2 +1,10 @@
-Titlegit status<br>=====<br>test
-Titlegit status<br>=====<br>test
+Title???
+====
+I'm trying to change some things here in the .md file...
+
+<br>
+Is it working?
+
+# Different formats
+
+**Bold???**
